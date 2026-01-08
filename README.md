@@ -1,6 +1,6 @@
 # Hi, I'm Karambir 👋
 
-Early-career **Software Engineer** focused on building **mobile + backend systems**.
+Early-career **Project-Based Software Engineer** focused on building **mobile + backend systems**.
 I like shipping real, user-first features and deploying production-style services.
 
 ## 🚀 What I’m building

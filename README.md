@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Karambir 👋
 
-<!--
-**karambirsharma08/karambirsharma08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Early-career **Software Engineer** focused on building **mobile + backend systems**.
+I like shipping real, user-first features and deploying production-style services.
 
-Here are some ideas to get you started:
+## 🚀 What I’m building
+**Warehouse Automation / Logistics Management App**
+- Mobile app with **React Native + Expo**
+- Backend services with **Python REST APIs**
+- **PostgreSQL** (cloud-hosted)
+- **Docker + AWS** for deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech I work with
+**React Native, Expo, Python, TypeScript (learning), PostgreSQL, Docker, AWS, Git**
+
+## 🤝 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/karambir-sharma-318550305/
+- Email: sharma99karambir@gmail.com
